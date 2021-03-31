@@ -86,4 +86,4 @@ $ yarn ios
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
-<a href="http://github.com/sartero">Emanuel Vitor Souza</a>
+<a href="http://github.com/emanuelv15">Emanuel Vitor Souza</a>
